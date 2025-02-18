@@ -1,0 +1,85 @@
+.about-page,
+.about-page * {
+  box-sizing: border-box;
+}
+.about-page {
+  background: #f6cbd1;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.bmgt-407 {
+  color: #000000;
+  text-align: left;
+  font-family: "Gloock-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 96px;
+  top: 49px;
+  width: 164px;
+  height: 39px;
+}
+.homepage {
+  color: #000000;
+  text-align: left;
+  font-family: "Junge-Regular", sans-serif;
+  font-size: 28px;
+  font-weight: 400;
+  position: absolute;
+  left: 838px;
+  top: 54px;
+}
+.about {
+  color: #000000;
+  text-align: left;
+  font-family: "Junge-Regular", sans-serif;
+  font-size: 28px;
+  font-weight: 400;
+  position: absolute;
+  left: 1055px;
+  top: 54px;
+}
+.contact {
+  color: #000000;
+  text-align: left;
+  font-family: "Junge-Regular", sans-serif;
+  font-size: 28px;
+  font-weight: 400;
+  position: absolute;
+  left: 1212px;
+  top: 54px;
+}
+.bmgt-407-information-systems-projects {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 40px;
+  font-weight: 600;
+  position: absolute;
+  left: 96px;
+  top: 188px;
+  width: 990px;
+}
+.bmgt-407-is-the-capstone-course-for-information-systems-is-majors-senior-capstone-course-for-the-information-systems-major-collected-knowledge-from-the-is-courses-and-application-to-significant-problems-of-size-and-complexity-state-of-the-art-research-ideas-and-current-business-and-industrial-practices-in-information-systems {
+  color: #000000;
+  text-align: left;
+  font-family: "Junge-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 96px;
+  top: 281px;
+  width: 1220px;
+  height: 103px;
+}
+.professor-paul-t-shapiro-teaching-assistants-bharath-sreekumar-caifu-lin-sumanth-devara-semester-details-spring-2025 {
+  color: #000000;
+  text-align: left;
+  font-family: "Junge-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 96px;
+  top: 512px;
+}

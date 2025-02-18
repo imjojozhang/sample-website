@@ -1,0 +1,106 @@
+.landing-page,
+.landing-page * {
+  box-sizing: border-box;
+}
+.landing-page {
+  background: #f6cbd1;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.bmgt-407 {
+  color: #000000;
+  text-align: left;
+  font-family: "Gloock-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 96px;
+  top: 49px;
+  width: 164px;
+  height: 39px;
+}
+.homepage {
+  color: #000000;
+  text-align: left;
+  font-family: "Junge-Regular", sans-serif;
+  font-size: 28px;
+  font-weight: 400;
+  position: absolute;
+  left: 838px;
+  top: 54px;
+}
+.about {
+  color: #000000;
+  text-align: left;
+  font-family: "Junge-Regular", sans-serif;
+  font-size: 28px;
+  font-weight: 400;
+  position: absolute;
+  left: 1055px;
+  top: 54px;
+}
+.contact {
+  color: #000000;
+  text-align: left;
+  font-family: "Junge-Regular", sans-serif;
+  font-size: 28px;
+  font-weight: 400;
+  position: absolute;
+  left: 1212px;
+  top: 54px;
+}
+.let-s-create-a-website-design {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 60px;
+  font-weight: 700;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 366px;
+  width: 1066px;
+  height: 73px;
+}
+.today-let-s-create-a-sample-website-design-in-figma-and-export-its-corresponding-html-and-css-code {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 414px);
+  top: 469px;
+  width: 846px;
+  height: 77px;
+}
+.rectangle-1 {
+  width: 280.5px;
+  height: 57px;
+  position: absolute;
+  left: 493px;
+  top: 723px;
+  overflow: visible;
+}
+.rectangle-2 {
+  background: #a8ff35;
+  border-radius: 10px;
+  width: 180px;
+  height: 57px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 633px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.get-started {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 651px;
+  top: 647px;
+}
